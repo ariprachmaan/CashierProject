@@ -13,11 +13,11 @@ Pak Andi merupakan pemilik salah satu supermarket besar yang ada di salah satu k
 - Membuat proses untuk mengupdate dari nama item, jumalah item dan harga item
 - Membuat proses untuk menghapus pesanan dan mereset transaksi yang sudah dilakukan
 - Membuat proses untuk mengecek orderan dari costumer
-- Membuat total pembayaran untuk mengecek apakah mendapatkan diskon atau tidak untuk pesanan tersebut.
+- Membuat total pembayaran untuk mengecek apakah mendapatkan diskon atau tidak untuk pesanan tersebut
 
 ## Flowchart/Alur Program
 
-![FlowChart Cashier](img/Flowchart%20Cashier.jpg)
+![Flowchart Cashier](img/Flowchart%20Cashier.png)
 
 ## Cara Penggunaan Program
 
