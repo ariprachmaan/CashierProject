@@ -82,7 +82,7 @@ Fungsi untuk menampilkan table yang berisikan data yang sudah diinput
 
 ## Test Case
 - Harap menjalankan terlebih dahulu cashier.py
-- Untuk hasil test case bisa dijalankan diterminal ataupun dilihat dari notebook document
+- Untuk hasil test case bisa dijalankan di terminal ataupun dari notebook document
 
 ## Conclusion
 Dari hasil pengerjaan project self-service cashier ini, diharapkan bisa membantu dan digunakan oleh pembeli sehingga pembeli dapat merasakan pengalaman baru dalam berbelanja
