@@ -17,7 +17,7 @@ Pak Andi merupakan pemilik salah satu supermarket besar yang ada di salah satu k
 
 ## Flowchart/Alur Program
 
-![Flowchart Cashier](img/Flowchart%20Cashier.png)
+![Flowchart_Cashier](img/Flowchart_Cashier.png)
 
 ## Cara Penggunaan Program
 
